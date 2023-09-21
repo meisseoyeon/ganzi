@@ -1,0 +1,10 @@
+.App {
+  width: 390px;
+  height: 1500px;
+  margin: 0 auto;
+  background-image: url("../img/booth.png");
+  background-size: 390px;
+}
+.button {
+  background-image: url("../public/images/button_arrow.png");
+}

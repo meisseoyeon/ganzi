@@ -1,0 +1,7 @@
+.App {
+  width: 390px;
+  height: 1000px;
+  margin: 0 auto;
+  background-image: url("../img/iphone_short.png");
+  background-size: 390px;
+}
